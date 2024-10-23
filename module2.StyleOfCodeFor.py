@@ -11,6 +11,6 @@ for i in numbers:
         if is_prime:
             primes.append(i)
         else:
-         not_primes.append(i)
+            not_primes.append(i)
 print(primes)
 print(not_primes)
