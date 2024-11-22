@@ -9,5 +9,5 @@ def get_multiplied_digits(number):
         return first
 
 
-result = get_multiplied_digits(40203)
+result = get_multiplied_digits(4020354)
 print(result)
